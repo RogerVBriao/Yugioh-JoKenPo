@@ -1,9 +1,10 @@
 # Yu-Gi-Oh | Jo-ken-po Edition
 
-Jogo de jokenpo que criei para explicar conceitos de lógica de programação aplicados a jogos
+Jogo de Jo-ken-po baseado no universo de YugiOh o anime coma as cartas de duelo.
 
-conceitos abordados:
+Estrutura do jogo realizado em :
+- HTMl
+- CSS
+-Javascript
 
-- Armazenamento e gerenciamento de estado manual
-- Funções limpas
-- Organização de código
+Com o assets fornecidos pelo professor Felipe Aguiar, Tech Educado-DIO.
